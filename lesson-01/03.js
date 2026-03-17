@@ -14,4 +14,5 @@ while (i <= 20) {
  }
  i++
 }
+console.log(sum);
 
