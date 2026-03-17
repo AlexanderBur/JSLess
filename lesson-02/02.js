@@ -8,7 +8,7 @@
 */
 
 let dice1 = Math.floor(Math.random() *6) +1
-let dice2 = Math.floor(Math.random() *6) +1пше фвв ю
+let dice2 = Math.floor(Math.random() *6) +1
 let isWinningDouble
 
 if ((dice1 > 3 & dice2 > 3) & (dice1 === dice2)) {
